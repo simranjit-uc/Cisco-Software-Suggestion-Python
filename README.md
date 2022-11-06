@@ -1,5 +1,5 @@
 # Cisco-SW-Suggestion
-Grab details on Cisco's software recommendations for different platforms. This program interacts with Cisco's Software Suggestion API over OAuth2.0 framework and captures details on Cisco's recommended softwares for different platforms.
+Grab details on Cisco's software recommendations for different platforms. This Python program interacts with Cisco's Software Suggestion API over OAuth2.0 framework and captures details on Cisco's recommended softwares for different platforms.
 ## Prerequisites
 - Python 3.x
 - Client ID and Password for the App registered on Cisco's API Console
