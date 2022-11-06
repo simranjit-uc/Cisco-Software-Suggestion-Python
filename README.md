@@ -7,7 +7,7 @@ Grab details on Cisco's software recommendations for different platforms. This P
 ## Cloning the App
 You can simply issue the following command from the command prompt on your computer to clone this app to your local directory
 ```
-git clone https://github.com/simranjit-uc/Cisco-SW-Suggestion
+git clone https://github.com/simranjit-uc/Cisco-Software-Suggestion-Python
 ```
 ## Running the App
 You can run the app directly from the command prompt or any other program like PyCharm which is what I use.
