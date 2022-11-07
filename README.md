@@ -18,6 +18,7 @@ The following is how you will get your output in a nice user friendly format
 
 ## More details
 For more details on what this code means, you can check out the following link
+- https://learnuccollab.com/2022/11/06/demystifying-oauth2-0-part-3-working-with-cisco-apis/
 
 To gain more behind the scene understanding of OAuth2.0 framework and how it works in relation to Cisco's API, you can check out the following links
 
